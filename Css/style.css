@@ -1,0 +1,294 @@
+*{
+	margin: 0;
+}
+.mydiv{
+	width: 80%;
+	height: 1550px;
+	/*background: red;*/
+	margin: auto;
+	border: 1px solid yellow;
+	padding: 15px;
+}
+	.mydiv h2{
+	border-bottom: 5px solid #c3c3c3;
+	font-size: -webkit-xxx-large;
+	display: inline-block;
+	margin-left: 20%;
+	padding-top: 62px;
+	text-transform: uppercase;
+}
+.mydiv .cv{
+	width: 100%;
+	height: 184px;
+	position: relative;
+	border-bottom: 5px solid #1d1b1b;
+}
+.cv img {
+	position: absolute;
+	left: 84%;
+	width: 162px;
+	height: 183px;
+}
+.cv .one{
+	position: absolute;
+	font-size: 20px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+      margin-left: 20%; 
+      margin-top: 20px; 
+}
+.cv .two{
+	position: absolute;
+	font-size: 20px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+      margin-left: 20%; 
+      margin-top: 50px; 
+}
+.two b{
+	margin-left: 85px;
+}
+.cv .tw{
+	position: absolute;
+	font-size: 20px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+      margin-left: 20%; 
+      margin-top: 80px; 
+}
+.tw b{
+	margin-left: 138px;
+}
+.cv .t{
+	position: absolute;
+	font-size: 20px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+      margin-left: 20%; 
+      margin-top: 110px; 
+}
+.t b{
+	text-transform: lowercase;
+	margin-left: 112px;
+}
+.cv .tow{
+	position: absolute;
+	font-size: 20px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+      margin-left: 20%; 
+      margin-top: 140px; 
+}
+.tow b{
+	text-transform:capitalize;
+	margin-left: 73px;
+}
+.vc {
+    margin-top: 4px;
+    width: 100%;
+    border-top: 5px solid #d2cfcf;
+}
+.vc h2{
+	border-bottom: 5px solid #c3c3c3;
+	font-size: xx-large;
+	display: inline-block;
+	margin-left: 4%;
+	padding-top: 43px;
+	text-transform: uppercase;
+}
+.vc .tow{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 30px;
+	margin-top: 10px;
+	font-size: xx-large;
+}
+.vc .tw{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 32px;
+	margin-top: 2px;
+	font-size: xx-large;
+}
+.vc .tw b{
+	text-transform:capitalize;
+	margin-left: 160px;
+}
+.vc .t{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 32px;
+	margin-top: 2px;
+	font-size: xx-large;
+}
+.vc .t b{
+	text-transform:capitalize;
+	margin-left: 36px;
+}
+.vc .ot{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 32px;
+	margin-top: 2px;
+	font-size: xx-large;
+}
+.vc .ot b{
+	text-transform:capitalize;
+	margin-left: 41px;
+}
+.vc .to{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 32px;
+	margin-top: 2px;
+	font-size: xx-large;
+}
+.vc .to b{
+	text-transform:capitalize;
+	margin-left: 33px;
+}
+.vc b{
+	font-size: 25px;
+}
+.vc .tom {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 5px;
+	font-size: xx-large;
+}
+.tom p {
+	font-size: 25px;
+	width: 80%;
+	float: right;
+}
+.vc .tmo {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 53px;
+	font-size: xx-large;
+}
+.tmo p {
+	font-size: 25px;
+	width: 80%;
+	float: right;
+}
+.vc .tlo {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 5px;
+	font-size: xx-large;
+}
+.tlo p {
+	font-size: 25px;
+	width: 80%;
+	float: right;
+}
+.vc .tol {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 5px;
+	font-size: xx-large;
+}
+.tol p {
+	font-size: 25px;
+	width: 80%;
+	float: right;
+}
+.vc .add {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 5px;
+	font-size: 28px;
+}
+.add p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
+.vc .ad {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 35px;
+	font-size: 28px;
+}
+.ad p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
+.vc .ado {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 53px;
+	font-size: 28px;
+}
+.ado p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
+.vc .adlo{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top: 5px;
+	font-size: 28px;
+}
+.adlo p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
+.vc .adol{
+	text-transform: capitalize;
+	display: block;
+	margin-left: 25px;
+	margin-top: 10px;
+	font-size: 28px;
+}
+.adol p {
+	font-size: 25px;
+	width: 74%;
+	float: right;
+}
+.vc .al {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top:60px;
+	font-size: 28px;
+}
+.al p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
+.vc .all {
+	text-transform: capitalize;
+	display: block;
+	margin-left: 40px;
+	margin-top:30px;
+	font-size: 28px;
+}
+.all p {
+	font-size: 25px;
+	width: 75%;
+	float: right;
+}
